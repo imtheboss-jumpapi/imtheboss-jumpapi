@@ -29,7 +29,7 @@
 <p align="left">
   <img src="https://www.kali.org/images/kali-logo.svg" width="45"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45"/>
-  <img src="https://avatars.githubusercontent.com/u/7479137?s=200&v=4" width="45"/> <!-- Metasploit -->
+  <!-- Metasploit -->
 </p>
 
 ### 🧠 Threat Intelligence
