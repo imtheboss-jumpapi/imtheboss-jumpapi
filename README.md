@@ -23,10 +23,12 @@
 ### 🔐 Security & SOC
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://imgs.search.brave.com/rRW1JB2SLtq2r0KwC6pTwv67ROMppCjbS_x5W_HNd1I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFjYzhkNzA0/ZGU4NTg2ZjZkNDBi/YzAwYmFkMTFkNTlm/MWU2ZGY4YTVmNmVj/ZDUwNjlhZjJlYTBk/NzgzN2I4NC93YXp1/aC5jb20v" width="45"/>
+  
 </p>
 
 ### 🔄 SOAR & DFIR
-
+<img src="https://imgs.search.brave.com/MEcworjH34fjExCW9VMDCwllEEr-m4PnEaR66BWhLgE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uOG5p/b3N0b3JhZ2VhY2Nv/dW50LmJsb2IuY29y/ZS53aW5kb3dzLm5l/dC9uOG5pby1zdHJh/cGktYmxvYnMtcHJv/ZC9hc3NldHMvaXJp/c19kZmlyXzUyZjc0/ODU3ZmQucG5n" width="45"/>
 
 ### 🧪 Pentesting & CTF
 <p align="left">
