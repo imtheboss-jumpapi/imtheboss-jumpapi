@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ly Sophavin</h1>
-<h3 align="center">🔐 Cybersecurity Researcher | SOC & SIEM Engineer | CTF Player</h3>
+<h3 align="center">🔐 Cybersecurity Researcher | SOC & SIEM Engineer | CTF Player | Penetration Testing </h3>
 
 <p align="center">
   📍 Phnom Penh, Cambodia <br/>
@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 - 🔍 Cybersecurity researcher focused on **SOC operations & SIEM & PenetrationTesting OSINT DFIR SECURITY ENGINEER**
-- 🛡️ Experience in **Penetration Testing, Detection Engineering**
+- 🛡️ Experience in **Penetration Testing, Detection Engineering,**
 - ⚙️ Building **SOAR + SIEM** using open-source tools
 - 🧪 Active **CTF player** (Web, Crypto, OSINT, Forensics)
 - 📚 Passionate about **security education & open-source**
@@ -20,12 +20,6 @@
 
 ## 🛠️ Tools & Technologies
 
-### 🔐 Security & SOC
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://imgs.search.brave.com/rRW1JB2SLtq2r0KwC6pTwv67ROMppCjbS_x5W_HNd1I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFjYzhkNzA0/ZGU4NTg2ZjZkNDBi/YzAwYmFkMTFkNTlm/MWU2ZGY4YTVmNmVj/ZDUwNjlhZjJlYTBk/NzgzN2I4NC93YXp1/aC5jb20v" width="45"/>
-  
-</p>
 
 ### 🔄 SOAR & DFIR
 <img src="https://imgs.search.brave.com/MEcworjH34fjExCW9VMDCwllEEr-m4PnEaR66BWhLgE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uOG5p/b3N0b3JhZ2VhY2Nv/dW50LmJsb2IuY29y/ZS53aW5kb3dzLm5l/dC9uOG5pby1zdHJh/cGktYmxvYnMtcHJv/ZC9hc3NldHMvaXJp/c19kZmlyXzUyZjc0/ODU3ZmQucG5n" width="45"/>
@@ -40,7 +34,7 @@
 
 ### 🧠 Threat Intelligence
 <p align="left">
-  <img src="https://www.virustotal.com/gui/home" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/virustotal-logo.svg" width="45"/>
   <img src="https://imgs.search.brave.com/J8UWPtHw-_7r_eVZvuoQCfH54R6QAWRxnwxETZxze8Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL01JU1Av/TUlTUC9yYXcvMi41/L0lOU1RBTEwvbG9n/b3MvbWlzcC1sb2dv/LnBuZw" width="45"/>
 </p>
 
@@ -58,7 +52,7 @@
 
 - 🔹 **SIEM for Education** (Wazuh, Suricata, ELK, VirusTotal)
 - 🔹 **SOC Automation** (Shuffle + IRIS + Telegram)
-- 🔹 **Penetration Testing Labs** (Metasploitable 2)
+- 🔹 **Penetration Testing Labs** (Metasploitable 2, TRYHACKME, HACKTHEBOX, PORTSWIGGER, CYBERWARE FARE)
 - 🔹 **CTF Write-ups** (Web, Crypto, OSINT, DFIR)
 
 👉 Check repositories below 👇
@@ -114,7 +108,7 @@
   <img src="https://assets.tryhackme.com/room-badges/c38d30d77b7615aaa7d964fb2a63e66a.png" width="60" alt="THM Badge"/>
   <img src="https://tryhackme.com/img/badges/aoc5.svg" width="60" alt="Advent of Cyber Badge"/>
   <img src="https://tryhackme.com/img/badges/aoc5.svg" width="60" />
-  <img src="https://tryhackme.com/SnodenZz/badges/burped?"width="60"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/burped"width="60"/>
   <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
   <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg"width="60"/>
   
