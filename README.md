@@ -102,16 +102,20 @@
 ## 🧠 TryHackMe Badges
 
 <p align="left">
-  <img src="https://assets.tryhackme.com/room-badges/c38d30d77b7615aaa7d964fb2a63e66a.png" width="60" alt="THM Badge"/>
-  <img src="https://assets.tryhackme.com/room-badges/c48e6e82c85fb0ceb9083ea3fbd5a06e.png" width="60" alt="THM Badge"/>
-  <img src="https://assets.tryhackme.com/room-badges/732ad567e367bc5843e3ac575314edb1.png" width="60" alt="THM Badge"/>
-  <img src="https://assets.tryhackme.com/room-badges/c38d30d77b7615aaa7d964fb2a63e66a.png" width="60" alt="THM Badge"/>
-  <img src="https://tryhackme.com/img/badges/aoc5.svg" width="60" alt="Advent of Cyber Badge"/>
-  <img src="https://tryhackme.com/img/badges/aoc5.svg" width="60" />
-  <img src="https://tryhackme.com/SnodenZz/badges/burped"width="60"/>
   <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
   <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg"width="60"/>
-  
+
+  <img src="https://tryhackme.com/SnodenZz/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Intro to Security Engineering"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/web-fund?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Web Fundamentals"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="OWASP Top 10"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/intro-to-pentesting?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Intro to Pentesting"/>
+
+  <img src="https://tryhackme.com/SnodenZz/badges/metasploitable?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Metasploitable"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/mr-robot?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Mr Robot"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/blue?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Blue Team"/>
+  <img src="https://tryhackme.com/SnodenZz/badges/shieldapprentice?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Shield Apprentice"/>
+
+
 </p>
 
 ---
