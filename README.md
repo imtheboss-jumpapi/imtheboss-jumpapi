@@ -104,6 +104,17 @@
 <p align="left">
   <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
   <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg"width="60"/>
+  <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/linux.svg" width="60"/>
+  <img src="https://tryhackme.com/img/badges/webbed.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/blue.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/shieldapprentice.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/swordapprentice.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/burpsuite.svg" width="60" />
+  <img src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="60"/>
+  
+  
 </p>
 
 ---
