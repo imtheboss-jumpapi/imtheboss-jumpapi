@@ -29,6 +29,7 @@
 
 ### 🔄 SOAR & DFIR
 <img src="https://imgs.search.brave.com/MEcworjH34fjExCW9VMDCwllEEr-m4PnEaR66BWhLgE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uOG5p/b3N0b3JhZ2VhY2Nv/dW50LmJsb2IuY29y/ZS53aW5kb3dzLm5l/dC9uOG5pby1zdHJh/cGktYmxvYnMtcHJv/ZC9hc3NldHMvaXJp/c19kZmlyXzUyZjc0/ODU3ZmQucG5n" width="45"/>
+<img src="https://imgs.search.brave.com/8p8t091n3h6EVc2e_FVIgMZYUNIYEvsI464p3Nvv6NQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZzJjcm93ZC5j/b20vdXBsb2Fkcy9w/cm9kdWN0L2ltYWdl/L2xhcmdlX2RldGFp/bC9sYXJnZV9kZXRh/aWxfNWZmYzRjOTgz/Mjk0ZjE0OWE2NjJm/OTFmMjhlZWQwYzkv/c2h1ZmZsZS5wbmc" width="45"/>
 
 ### 🧪 Pentesting & CTF
 <p align="left">
@@ -39,8 +40,8 @@
 
 ### 🧠 Threat Intelligence
 <p align="left">
-  <img src="https://www.virustotal.com/gui/images/vt_logo.png" width="45"/>
-  <img src="https://www.misp-project.org/assets/images/misp-logo.png" width="45"/>
+  <img src="https://www.virustotal.com/gui/home" width="45"/>
+  <img src="https://imgs.search.brave.com/J8UWPtHw-_7r_eVZvuoQCfH54R6QAWRxnwxETZxze8Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL01JU1Av/TUlTUC9yYXcvMi41/L0lOU1RBTEwvbG9n/b3MvbWlzcC1sb2dv/LnBuZw" width="45"/>
 </p>
 
 ### 💻 Programming & Scripting
