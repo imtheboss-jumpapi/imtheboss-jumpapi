@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🔍 Cybersecurity researcher focused on **SOC operations & SIEM**
+- 🔍 Cybersecurity researcher focused on **SOC operations & SIEM & PenetrationTesting OSINT DFIR SECURITY ENGINEER**
 - 🛡️ Experience in **Penetration Testing, Detection Engineering**
 - ⚙️ Building **SOAR + SIEM** using open-source tools
 - 🧪 Active **CTF player** (Web, Crypto, OSINT, Forensics)
@@ -23,10 +23,6 @@
 ### 🔐 Security & SOC
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Kibana_Logo.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/extensions/dashboard/public/assets/wazuh.svg" width="45"/>
-  <img src="https://suricata.io/wp-content/uploads/2021/01/cropped-suricata_logo.png" width="45"/>
 </p>
 
 ### 🔄 SOAR & DFIR
@@ -114,10 +110,10 @@
   <img src="https://assets.tryhackme.com/room-badges/732ad567e367bc5843e3ac575314edb1.png" width="60" alt="THM Badge"/>
   <img src="https://assets.tryhackme.com/room-badges/c38d30d77b7615aaa7d964fb2a63e66a.png" width="60" alt="THM Badge"/>
   <img src="https://tryhackme.com/img/badges/aoc5.svg" width="60" alt="Advent of Cyber Badge"/>
-  <img src="https://tryhackme.com/img/badges/aoc5.svg"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/burped?"/>
-  <img src="https://tryhackme.com/img/badges/hashcracker.svg"/>
-  <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg"/>
+  <img src="https://tryhackme.com/img/badges/aoc5.svg" width="60" />
+  <img src="https://tryhackme.com/SnodenZz/badges/burped?"width="60"/>
+  <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
+  <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg"width="60"/>
   
 </p>
 
