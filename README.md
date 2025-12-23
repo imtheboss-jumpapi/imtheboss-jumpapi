@@ -104,18 +104,6 @@
 <p align="left">
   <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
   <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg"width="60"/>
-
-  <img src="https://tryhackme.com/SnodenZz/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Intro to Security Engineering"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/web-fund?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Web Fundamentals"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="OWASP Top 10"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/intro-to-pentesting?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Intro to Pentesting"/>
-
-  <img src="https://tryhackme.com/SnodenZz/badges/metasploitable?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Metasploitable"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/mr-robot?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Mr Robot"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/blue?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Blue Team"/>
-  <img src="https://tryhackme.com/SnodenZz/badges/shieldapprentice?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=638b74801701c200443ec140" width="70" alt="Shield Apprentice"/>
-
-
 </p>
 
 ---
