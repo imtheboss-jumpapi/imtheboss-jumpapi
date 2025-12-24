@@ -100,6 +100,7 @@
 </p>
 
 ##  TryHackMe Badges
+<img src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png"/>
 
 <p align="left">
   <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
@@ -117,7 +118,7 @@
   
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png" alt="Your Image Badge" width="100"/>
+
 
 ##  HackTheBox Badges
 ---
