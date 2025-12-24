@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ly Sophavin</h1>
-<h3 align="center">🔐 Cybersecurity Researcher | SOC & SIEM Engineer | CTF Player | Penetration Testing </h3>
+<h3 align="center">🔐 Cybersecurity Researcher | SOC & SIEM Engineer | CTF Player | Penetration Testing | Bug Hunting </h3>
 
 <p align="center">
   📍 Phnom Penh, Cambodia <br/>
@@ -99,7 +99,7 @@
   <img src="https://camo.githubusercontent.com/29311c98fa094cda73752d8ed543fbf78a6aa542115b38311dd564c9556db144/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f646526636f6c6f723d303030303030" />
 </p>
 
-## 🧠 TryHackMe Badges
+##  TryHackMe Badges
 
 <p align="left">
   <img src="https://tryhackme.com/img/badges/hashcracker.svg"width="60"/>
@@ -117,6 +117,9 @@
   
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png" alt="Your Image Badge" width="100"/>
+
+##  HackTheBox Badges
 ---
 
 ⚠️ **Disclaimer**  
